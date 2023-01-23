@@ -4,7 +4,7 @@
 
 ### Tentang Web SI DOMANI
 
-SI DOMANI merupakan kependekan dari Sistem Pakar Diagnosis Malnutrisi Anak Balita dalam bentuk web yang dibangun oleh Adhitya Bagus Wicaksono yang dibuat selama ± 7 hari. Data pengetahuan yang digunakan di dalam web ini diperoleh dari artikel ilmiah "[Aplikasi 'GIZIe' Untuk Mengetahui Status Gizi Balita Menggunakan Metode Forward Chaining](http://jurnal.iaii.or.id/index.php/RESTI/article/view/908)" yang ditulis oleh Fiby Nur Afiana dan Ika Romadoni Yunita dari STMIK Amikom Purwokerto.
+SI DOMANI merupakan kependekan dari Sistem Pakar Diagnosis Malnutrisi Anak Balita dalam bentuk web yang dibangun oleh Adhitya Bagus Wicaksono dalam waktu ± 7 hari. Data pengetahuan yang digunakan di dalam web ini diperoleh dari artikel ilmiah "[Aplikasi 'GIZIe' Untuk Mengetahui Status Gizi Balita Menggunakan Metode Forward Chaining](http://jurnal.iaii.or.id/index.php/RESTI/article/view/908)" yang ditulis oleh Fiby Nur Afiana dan Ika Romadoni Yunita dari STMIK Amikom Purwokerto.
 
 ### Mekanisme Pemilihan Diagnosis dalam Web SI DOMANI
 
