@@ -11,6 +11,7 @@
     padding: 24px;
     margin: 24px;
     width: 100%;
+    max-width: 1024px;
     min-height: 70vh;
     display: flex;
     justify-content: center;
@@ -18,7 +19,8 @@
     color: var(--blue-primary);
     background-color: var(--white);
     text-align: center;
-    box-shadow: 0 4px 20px 5px rgba(0, 141, 202, 0.25);
+    border: 2px solid var(--blue-primary);
+    color: black;
 }
 
 .wrapper div {
@@ -26,8 +28,14 @@
     margin-top: 10px;
 }
 
+#header {
+    margin-bottom: 2em;
+    color: var(--blue-primary);
+}
+
 #button {
-    margin: 24px 0;
+    /* margin: 24px 0; */
+    margin: 3em 0 2em 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -91,6 +99,10 @@ input[type="radio"]:checked+label {
     background-color: var(--blue-primary);
     outline: 0;
     color: var(--white);
+}
+
+#hasilAnalisis { 
+    text-align: left;
 }
 
 @media screen and (max-width: 767px) {
