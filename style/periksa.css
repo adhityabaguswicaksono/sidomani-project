@@ -34,7 +34,6 @@
 }
 
 #button {
-    /* margin: 24px 0; */
     margin: 3em 0 2em 0;
     display: flex;
     justify-content: center;
@@ -83,21 +82,19 @@ label {
     background-color: var(--white);
     padding: 4px 12px;
     outline: 2px var(--blue-primary) solid;
-    /* font-size: 16px; */
-    border-radius: 50px;
+    /* border-radius: 50px; */
     transition: all 0.25s;
     cursor: pointer;
+    transform: skew(-10deg);
 }
 
 label:hover {
     background-color: var(--blue-secondary);
     color: var(--white);
-    outline: 0;
 }
 
 input[type="radio"]:checked+label {
     background-color: var(--blue-primary);
-    outline: 0;
     color: var(--white);
 }
 

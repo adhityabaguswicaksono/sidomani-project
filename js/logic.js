@@ -454,11 +454,13 @@ function showResult(data, array) {
 
 	const divPertanyaanAnalisis = document.createElement('div');
 	divPertanyaanAnalisis.setAttribute('id', 'pertanyaanAnalisis');
-	divPertanyaanAnalisis.innerHTML = '<br><h3>Daftar Jawaban Diagnosis</h3>';
+	divPertanyaanAnalisis.innerHTML =
+		'<br><h3 style="color: var(--blue-primary);">Daftar Jawaban Diagnosis</h3>';
 
 	const divSolusiAnalisis = document.createElement('div');
 	divSolusiAnalisis.setAttribute('id', 'solusiAnalisis');
-	divSolusiAnalisis.innerHTML = '<br><h3>Solusi Diagnosis</h3>';
+	divSolusiAnalisis.innerHTML =
+		'<br><h3 style="color: var(--blue-primary);">Solusi Diagnosis</h3>';
 
 	const buttonDiv = document.getElementById('button');
 	buttonDiv.innerHTML = '';
